@@ -1,0 +1,2 @@
+# maven-repo
+public jar
